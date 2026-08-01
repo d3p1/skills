@@ -11,6 +11,16 @@
 
 My [Agent Skills](https://agentskills.io/home).
 
+## Installation
+
+To install these skills into your agent, go to the agent folder (i.e.: `.claude/skills`) and run the following command:
+
+```shell
+git clone https://github.com/d3p1/skills.git /tmp/d3p1-skills && \
+cp -r /tmp/d3p1-skills/src/. . && \
+rm -rf /tmp/d3p1-skills
+```
+
 ## Changelog
 
 Detailed changes for each release are documented in [`CHANGELOG.md`](./CHANGELOG.md).
