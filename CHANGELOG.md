@@ -1,3 +1,12 @@
+# [1.2.0](https://github.com/d3p1/skills/compare/v1.1.0...v1.2.0) (2026-08-02)
+
+
+### Features
+
+* add frontend-design skill [[#1](https://github.com/d3p1/skills/issues/1)] ([bf2e04b](https://github.com/d3p1/skills/commit/bf2e04b0a892c8054d9925e80e49f7ccae568c28))
+* add skill-creator skill [[#1](https://github.com/d3p1/skills/issues/1)] ([5e497fd](https://github.com/d3p1/skills/commit/5e497fd360835ac2f374316ae43f48719e8f22f2))
+* remove test skill [[#1](https://github.com/d3p1/skills/issues/1)] ([3476cb6](https://github.com/d3p1/skills/commit/3476cb62e7a68a3483af4145d6aefcb38ef4d27f))
+
 # [1.1.0](https://github.com/d3p1/skills/compare/v1.0.0...v1.1.0) (2026-08-01)
 
 
