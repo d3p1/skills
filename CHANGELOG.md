@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/d3p1/skills/compare/v1.4.0...v1.5.0) (2026-08-02)
+
+
+### Features
+
+* improve coding skills so they use IDE tools [[#1](https://github.com/d3p1/skills/issues/1)] ([fc51a02](https://github.com/d3p1/skills/commit/fc51a028070e013a7a6e5937e62a934fd8f01676))
+
 # [1.4.0](https://github.com/d3p1/skills/compare/v1.3.0...v1.4.0) (2026-08-02)
 
 
