@@ -1,16 +1,26 @@
 ---
 name: magento2-category-attribute-creation
 description: >
-  Use this skill every time you need to create
-  a category attribute in a Magento 2 project
+  Implement a custom category attribute in a Magento 2 project:
+  source model, data patch, and admin UI form field.
+  Use this skill whenever you need to develop
+  a category attribute.
 ---
 
 # Goal
 
-Add a custom attribute to the category entity
+Implement a custom attribute for the category entity
 inside a Magento 2 project.
 Optionally, add it to the category form used 
 in the Magento Admin panel.
+
+This skill covers implementation only. Applying the change
+(e.g. running `bin/magento setup:upgrade`) and verifying it
+in the Admin panel is left to the developer.
+
+Code snippets below show only the parts relevant to each step.
+Other required boilerplate (constructors, additional interface
+methods, etc.) is omitted and marked with `...`.
 
 ## Step 1: Create a source model (optional)
 
@@ -114,7 +124,7 @@ You must extend the `category_form.xml` to make the field visible.
 ...
 <form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
       xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Ui:etc/ui_configuration.xsd">
-    <fieldset name="general"> <!-- Or the name of the fieldset/group defined in the data patch -->
+    <fieldset name="general"> <!-- Or the name of the fieldset ID related to the attribute's `group` value from the data patch -->
         <field name="custom_attribute_code" sortOrder="100" formElement="select">
             <settings>
                 <dataType>string</dataType>
