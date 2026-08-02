@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/d3p1/skills/compare/v1.3.0...v1.4.0) (2026-08-02)
+
+
+### Features
+
+* improve magento2-category-attribute-creation skill [[#1](https://github.com/d3p1/skills/issues/1)] ([49f8d6c](https://github.com/d3p1/skills/commit/49f8d6cfe41319411b528cd333566178dae9ac16))
+
 # [1.3.0](https://github.com/d3p1/skills/compare/v1.2.0...v1.3.0) (2026-08-02)
 
 
