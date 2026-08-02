@@ -1,3 +1,12 @@
+# [1.3.0](https://github.com/d3p1/skills/compare/v1.2.0...v1.3.0) (2026-08-02)
+
+
+### Features
+
+* add coding-style skill [[#1](https://github.com/d3p1/skills/issues/1)] ([fd780dd](https://github.com/d3p1/skills/commit/fd780dd33542972e2d66c8f6ad54a6d6fa547f83))
+* add implementation-guard skill [[#1](https://github.com/d3p1/skills/issues/1)] ([5f71166](https://github.com/d3p1/skills/commit/5f71166108d068add673bdce51e84436cd3a5dcb))
+* add magento2-category-attribute-creation skill [[#1](https://github.com/d3p1/skills/issues/1)] ([07af5da](https://github.com/d3p1/skills/commit/07af5da67e61b2d9823d6cf4efce2aef5d486fa4))
+
 # [1.2.0](https://github.com/d3p1/skills/compare/v1.1.0...v1.2.0) (2026-08-02)
 
 
