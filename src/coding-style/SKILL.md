@@ -22,8 +22,9 @@ clearly harmful.
 Always inspect nearby files, project configuration, formatter rules,
 and repository conventions before applying generic standards.
 
-Use available linters, formatters, static analysis tools, and type
-checkers when relevant.
+Use any available tools (like the ones related to JetBrains IDEs), 
+available linters, formatters, static analysis tools, and type
+checkers to improve development accuracy.
 
 ## Formatting
 

@@ -16,7 +16,8 @@ Prefer consistency with the
 existing repository coding practices and design patterns
 unless it is clearly harmful.
 
-You may use any available tools, linters, static analyzers,
+Use any available tools (like the ones related to JetBrains IDEs), 
+linters, static analyzers,
 type checkers, security scanners, test suites, and repository context
 to improve development accuracy.
 
