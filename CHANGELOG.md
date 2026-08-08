@@ -1,3 +1,15 @@
+# [1.9.0](https://github.com/d3p1/skills/compare/v1.8.0...v1.9.0) (2026-08-08)
+
+
+### Bug Fixes
+
+* adjust magento 2 system config field and category attribute creation skill names [[#1](https://github.com/d3p1/skills/issues/1)] ([d16a87e](https://github.com/d3p1/skills/commit/d16a87eafd600291dfff88ce4da96706e4a95cfd))
+
+
+### Features
+
+* add agent context file creator skill [[#1](https://github.com/d3p1/skills/issues/1)] ([188e14f](https://github.com/d3p1/skills/commit/188e14f4b3d981d931df751170f246c6b0f7bea3))
+
 # [1.8.0](https://github.com/d3p1/skills/compare/v1.7.0...v1.8.0) (2026-08-08)
 
 
