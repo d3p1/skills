@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/d3p1/skills/compare/v1.5.0...v1.6.0) (2026-08-08)
+
+
+### Features
+
+* implement magento 2 system config field creation skill [[#1](https://github.com/d3p1/skills/issues/1)] ([1df2a68](https://github.com/d3p1/skills/commit/1df2a682e25bf03387092c28cc6669545fa2708e))
+
 # [1.5.0](https://github.com/d3p1/skills/compare/v1.4.0...v1.5.0) (2026-08-02)
 
 
