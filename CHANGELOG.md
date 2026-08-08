@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/d3p1/skills/compare/v1.7.0...v1.8.0) (2026-08-08)
+
+
+### Features
+
+* add magento 2 implementation guard skill [[#1](https://github.com/d3p1/skills/issues/1)] ([55e9d03](https://github.com/d3p1/skills/commit/55e9d036dd5cf63712b1b671633a9db7b208ce3d))
+
 # [1.7.0](https://github.com/d3p1/skills/compare/v1.6.0...v1.7.0) (2026-08-08)
 
 
