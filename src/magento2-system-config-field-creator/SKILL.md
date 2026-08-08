@@ -1,5 +1,5 @@
 ---
-name: magento2-system-config-field-creation
+name: magento2-system-config-field-creator
 description: >
   Implement system configuration fields in a Magento 2 project.
   Use this skill whenever you need to add or change a

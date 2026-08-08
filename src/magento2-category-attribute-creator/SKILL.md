@@ -1,5 +1,5 @@
 ---
-name: magento2-category-attribute-creation
+name: magento2-category-attribute-creator
 description: >
   Implement a custom category attribute in a Magento 2 project:
   source model, data patch, and admin UI form field.
