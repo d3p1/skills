@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/d3p1/skills/compare/v1.6.0...v1.7.0) (2026-08-08)
+
+
+### Features
+
+* add jbcontext skill [[#1](https://github.com/d3p1/skills/issues/1)] ([4d2a2b9](https://github.com/d3p1/skills/commit/4d2a2b943f43beea1518f6cf37566969f8f17349))
+
 # [1.6.0](https://github.com/d3p1/skills/compare/v1.5.0...v1.6.0) (2026-08-08)
 
 
